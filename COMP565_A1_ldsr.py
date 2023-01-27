@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+# README: https://github.com/mikemikezhu/ld_score_regression
+
 """ 
 Constants 
 """
