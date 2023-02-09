@@ -106,6 +106,7 @@ def main():
                                                                 marginal_statistics=beta,
                                                                 sample_size=SAMPLE_SIZE,
                                                                 total_features=TOTAL_FEATURES)
+    # Heritability: 0.19017122782624796
     print("Heritability: {}".format(heritability))
 
 
